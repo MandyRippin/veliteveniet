@@ -1,0 +1,25 @@
+{
+  "name": "veliteveniet",
+  "version": "1.0.0",
+  "description": "localized text for all Essential JS 2 Component in various languages",
+  "author": "DaijaRutherford",
+  "license": "SEE LICENSE IN license",
+  "keywords": [
+    "debitis",
+    "syncfusion",
+    "aut",
+    "reiciendis",
+    "odio",
+    "ej2-locale-text",
+    "velit",
+    "l10n"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MandyRippin/veliteveniet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MandyRippin/veliteveniet.git/issues"
+  },
+  "homepage": "https://github.com/MandyRippin/veliteveniet.git"
+}
